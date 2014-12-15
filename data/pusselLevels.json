@@ -1,0 +1,29 @@
+{
+	"pusselLevels": [
+		{
+			"name": "Poke",
+			"grid": {
+				"x": 8,
+				"y": 8,
+				"size": 40
+			},
+			"itemTypes": { 
+				"cannons": 1,
+				"shields": 1
+			}
+		},
+		{
+			"name": "Strike",
+			"grid": {
+				"x": 8,
+				"y": 8,
+				"size": 40
+			},
+			"itemtTypes": {
+				"cannons": 2,
+				"shields": 2
+			}
+		}
+
+	]	
+}
